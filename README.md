@@ -2,7 +2,7 @@
 
 Introdución:
 
-Se recupera de la siguiente página los datos de la Organización territorial de Chile.
+Se recuperan de la siguiente página los datos de la Organización territorial de Chile.
 https://es.wikipedia.org/wiki/Chile
 
 Se requiere instalar las libreria indicadas en el archivo requirements.txt.
