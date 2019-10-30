@@ -14,6 +14,10 @@ Indicaciones de la operación:
 * Agregar nueva columna con los porcentajes del punto anterior.
 * Exportar la información en archivo CSV.
 
+Versión de Python:
+
+Python == 3.7
+
 Se requiere instalar las libreria indicadas en el archivo requirements.txt.
 
 beautifulsoup4 == 4.8.1 
